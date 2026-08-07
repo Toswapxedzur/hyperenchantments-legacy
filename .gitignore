@@ -23,4 +23,24 @@ run
 runs
 run-data
 
-repo
+repo# build & run artifacts
+build/
+.gradle/
+run/
+run-data/
+runs/
+logs/
+.idea/
+*.iml
+.DS_Store
+
+# build & run artifacts
+build/
+.gradle/
+run/
+run-data/
+runs/
+logs/
+.idea/
+*.iml
+.DS_Store
